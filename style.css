@@ -300,7 +300,7 @@ input:checked+.slider:before {
 #skills {
   display: grid;
 margin-top: 5%;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: repeat(2, 50px);
   column-gap: 3%;
   row-gap: 300%;
